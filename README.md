@@ -47,12 +47,9 @@ A curated collection of Flutter projects organized by complexity and purpose.
 
 ## 📅 **Upcoming Projects**
 
-### **Q1 2024 Roadmap**
+### **Q1 2026 Roadmap**
 - [ ] **Social Media App** - Clone with Firebase backend
-- [ ] **Finance Tracker** - Expense management with charts
-- [ ] **Music Player** - Audio streaming with playlists
-- [ ] **Food Delivery App** - Complete with maps integration
-- [ ] **Job Portal** - For college placements
+
 
 ### **Learning Goals**
 - [ ] Master Firebase Cloud Functions
